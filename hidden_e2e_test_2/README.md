@@ -34,4 +34,5 @@ The purpose of this test is to verify the following:
      - Delete both snapshots and confirm that they cannot be used to restore inventory after deletion.
     
 ### Note
+Since the server reponses are different for each repository, appropriate changes have been made to match the repository's server response during assertion.
 
