@@ -17,4 +17,4 @@ The purpose of this test is to verify the behavior of the system when attempting
 - **Expected Behavior**: The server should return `{'result': -1}` to indicate that the load operation failed.
 
 ### Note
-During testing, the reponse has been modified to match what the server returns
+During testing, the reponse has been modified according to the server response of the repository.
