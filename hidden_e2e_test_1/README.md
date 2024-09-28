@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document describes an end-to-end unit test designed to verify the entire workflow of defining, adding, saving, loading, and deleting inventory items in the Inventory Management System. The test ensures the system's capabilities to manage the lifecycle of inventory items properly, including snapshot creation, restoration, and deletion.
+This document describes an end-to-end unit test designed to verify the entire workflow of defining, adding, saving, loading, and deleting inventory items in the Inventory Management System.
 
 ### Purpose
 
